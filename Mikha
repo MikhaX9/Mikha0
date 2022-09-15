@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+  background-image: 
+
+<p> Nama  : Caecar Mikha K </p>
+<p> NIM   : 205314055 </p>
+<p> Kelas : Pemprograman Berbasis Platfrom AP </p>
+
+<table style="width:100%">
+<table border="2" cellpadding="10">
+    <tr>
+        <th colspan="16">Jadwal Kuliah</th>
+    </tr>
+  <tr>
+    <th width ="50" height ="50" bgcolor="dodgerblue">Hari/Jam</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">06-07</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">07-08</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">08-09</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">09-10</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">10-11</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">11-12</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">12-13</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">13-14</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">14-15</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">16-17</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">17-18</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">18-19</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">19-20</th>
+    <th width ="50" height ="50" bgcolor="dodgerblue">20-21</th>
+  </tr>
+  <tr>
+    <td width ="50" height ="50" bgcolor="dodgerblue"
+    >Senin</td>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" bgcolor="DarkGrey">Strategi Algoritma Kelas D</th>
+    <th width ="50" height ="50" bgcolor="DarkGrey">Strategi Algoritma Kelas D</th>
+    <th width ="50" height ="50" bgcolor="DarkGrey">Strategi Algoritma Kelas D</th>
+    <th width ="50" height ="50" bgcolor="DarkGrey">Administrasi BD Kelas A</th>
+    <th width ="50" height ="50" bgcolor="DarkGrey">Administrasi BD Kelas A</th>
+    <th width ="50" height ="50" bgcolor="DarkGrey">Pemrograman Platfrom Kelas A</th>
+    <th width ="50" height ="50" bgcolor="DarkGrey">Pemrograman Platfrom Kelas A</th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+  </tr>
+  <tr>
+    <td bgcolor="dodgerblue">Selasa</td>
+    <th>    </th>
+    <th bgcolor="DarkGrey">Algoritma Optimasi Kelas A </th>
+    <th bgcolor="DarkGrey">Algoritma Optimasi Kelas A </th>
+    <th bgcolor="DarkGrey">Algoritma Optimasi Kelas A </th>
+    <th >    </th>
+    <th >    </th>
+    <th >    </th>
+    <th bgcolor="DarkGrey">RPL Kelas A </th>
+    <th bgcolor="DarkGrey">RPL Kelas A </th>
+    <th bgcolor="DarkGrey">RPL Kelas A </th>
+    <th >    </th>
+    <th >    </th>
+    <th >    </th>
+    <th >    </th>
+  </tr>
+  <tr>
+    <td bgcolor="dodgerblue">Rabu</td>
+    <th>    </th>
+    <th bgcolor="DarkGrey">Pengenalan Pola Kelas A </th>
+    <th bgcolor="DarkGrey">Pengenalan Pola Kelas A </th>
+    <th bgcolor="DarkGrey">Pengenalan Pola Kelas A </th>
+    <th >    </th>
+    <th >    </th>
+    <th >    </th>
+    <th bgcolor="DarkGrey">Pengenalan Pola Kelas AP </th>
+    <th bgcolor="DarkGrey">Pengenalan Pola Kelas AP </th>
+    <th bgcolor="DarkGrey">Pengenalan Pola Kelas AP </th>
+    <th >    </th>
+    <th >    </th>
+    <th >    </th>
+    <th >    </th>
+  </tr>
+  <tr>
+    <td bgcolor="dodgerblue">Kamis</td>
+    <th>    </th>
+    <th bgcolor="DarkGrey">Pemrograman Platfrom Kelas AP</th>
+    <th bgcolor="DarkGrey">Pemrograman Platfrom Kelas AP</th>
+    <th bgcolor="DarkGrey">Pemrograman Platfrom Kelas AP</th>
+    <th bgcolor="DarkGrey">RPL Kelas A </th>
+    <th bgcolor="DarkGrey">RPL Kelas A </th>
+    <th bgcolor="DarkGrey">RPL Kelas A </th>
+    <th>    </th>
+    <th bgcolor="DarkGrey">Algoritma Optimasi Kelas AP </th>
+    <th bgcolor="DarkGrey">Algoritma Optimasi Kelas AP </th>
+    <th bgcolor="DarkGrey">Algoritma Optimasi Kelas AP </th>
+    <th >    </th>
+    <th >    </th>
+    <th >    </th>
+  </tr>
+  <tr>
+    <td width ="50" height ="50" bgcolor="dodgerblue">Jumat</td>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+  </tr>
+  <tr>
+    <td width ="50" height ="50" bgcolor="dodgerblue">Sabtu</td>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+    <th width ="50" height ="50" >    </th>
+  </tr>
+</table>
+</table>
+
+<p>
+    <button type="button" onclick="javascript:alert('Data Baru di Download');">Download</button>
+</p>
+</body>
+</html>
